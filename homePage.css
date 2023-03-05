@@ -1,0 +1,33 @@
+body {
+    font-family: Calibri;
+    
+}
+header h1 {
+    font-size: 50pt;
+}
+header a {
+    font-size: 14pt;
+    
+}
+nav {
+    height: 400px;
+}
+nav a {
+    font-size: 10pt;
+}
+img{
+    height: 110px;
+    
+    
+}
+main{
+    font-size: 14pt;
+    height: 530px;
+    
+}
+main h1 {
+    font-size: 25pt;
+}
+main p {
+    font-size: 10pt;
+}
